@@ -2,3 +2,6 @@ site_name: Hack Tracker
 
 theme:
   name: material
+
+nav:
+  - Hackathons: index.md
