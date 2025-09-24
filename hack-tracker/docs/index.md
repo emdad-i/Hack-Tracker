@@ -9,7 +9,9 @@ A portfolio to keep track of my hackathon projects and development journey.
 **Date:** April 2024 <br>
 **Stack:** Python, RShiny, Anthropic, Newscatcher <br>
 **Description:**  
-Developed a pipeline to analyse news reports for early detection of emerging viral outbreaks that may affect the UK. Data was fetched from Newscatcher, summarised with Anthropic’s LLM, and scored for potential impact.  
+Developed a pipeline to analyse news reports for early detection of emerging viral outbreaks that may affect the UK. Data was fetched from Newscatcher, summarised with Anthropic’s LLM, and scored for potential impact. 
+
+[i.AI Blog](https://ai.gov.uk/blogs/going-10x-using-hackathons-to-kickstart-government-ai-development-and-adoption/)
 
 ---
 
@@ -19,6 +21,10 @@ Developed a pipeline to analyse news reports for early detection of emerging vir
 **Stack:** HTML, JavaScript <br>
 **Description:**  
 Collaborated with a cross-departmental team of civil servants to explore the use of graph theory in fraud detection. Pitched the solution in a Dragons’ Den–style session to senior leaders, generating momentum for continued development at the departmental level.  
+
+[Dragon-den's Style Pitch](https://www.youtube.com/watch?v=TWSs3fjPWAY)
+
+[Data Chalenge - Longlist 2022](https://datachallenge.uk/longlist-2022/)
 
 ---
 
@@ -38,6 +44,8 @@ Applied agile methods to develop graph networks from Companies House data, enabl
 **Description:**  
 Built a concierge service for train passengers while hacking onboard trains travelling from the UK to France and Germany. Delivered a Dragons’ Den–style pitch showcasing innovative ways to use rail infrastructure for e-commerce.  
 
+[HackTrain 5.0 DevPost](https://hacktrain5.devpost.com)
+
 ---
 
 ## ☁️ Microsoft Reactor OpenHack
@@ -55,6 +63,8 @@ Worked as part of a team to complete a series of machine learning challenges, ea
 **Stack:** Java, Raspberry Pi, RoboCode Framework <br>
 **Description:**  
 Developed scripts to control robots that competed in battles to test design and coding skills. This event grew out of a successful pilot in January 2018 aimed at sparking interest in programming across teams.  
+
+[RoboCode](https://robocode.sourceforge.io)
 
 ---
 
